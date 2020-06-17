@@ -1,0 +1,16 @@
+PODS:
+  - hxbbTest (0.1.0)
+
+DEPENDENCIES:
+  - hxbbTest (from `../`)
+
+EXTERNAL SOURCES:
+  hxbbTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  hxbbTest: 60975f8196ec4e4c0f80bed7209528248b34971b
+
+PODFILE CHECKSUM: 5bcf441eb4828443216432f893ac8b508fb68aa0
+
+COCOAPODS: 1.9.2
