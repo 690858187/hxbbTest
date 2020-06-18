@@ -10,7 +10,6 @@
 		00BFFCDFBCB61E40C536F4B6 /* Pods_hxbbTest_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D42B822BFF0BDBBFBA6C739 /* Pods_hxbbTest_Example.framework */; };
 		521CED25745479F041FB1CD8 /* Pods_hxbbTest_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4013342360C664C9E0D308A2 /* Pods_hxbbTest_Tests.framework */; };
 		5353207C249AFC8D001AB14A /* HxbbModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5353207B249AFC8D001AB14A /* HxbbModel.m */; };
-		5353207F249AFE7C001AB14A /* DashedLineView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5353207E249AFE7C001AB14A /* DashedLineView.m */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -46,8 +45,6 @@
 		505FB232C9A808670A86A0F1 /* Pods-hxbbTest_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hxbbTest_Example.debug.xcconfig"; path = "Target Support Files/Pods-hxbbTest_Example/Pods-hxbbTest_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		5353207A249AFC8D001AB14A /* HxbbModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HxbbModel.h; sourceTree = "<group>"; };
 		5353207B249AFC8D001AB14A /* HxbbModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HxbbModel.m; sourceTree = "<group>"; };
-		5353207D249AFE7C001AB14A /* DashedLineView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DashedLineView.h; sourceTree = "<group>"; };
-		5353207E249AFE7C001AB14A /* DashedLineView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DashedLineView.m; sourceTree = "<group>"; };
 		59D6C56904C144EA520D1190 /* Pods-hxbbTest_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hxbbTest_Tests.debug.xcconfig"; path = "Target Support Files/Pods-hxbbTest_Tests/Pods-hxbbTest_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* hxbbTest_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hxbbTest_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -187,8 +184,6 @@
 				B2BDD4887692A667A07E2DAA /* hxbbTest.podspec */,
 				22E6A23C020FB622928E1E17 /* README.md */,
 				1F7B0E83BA067DD18094C481 /* LICENSE */,
-				5353207D249AFE7C001AB14A /* DashedLineView.h */,
-				5353207E249AFE7C001AB14A /* DashedLineView.m */,
 				5353207A249AFC8D001AB14A /* HxbbModel.h */,
 				5353207B249AFC8D001AB14A /* HxbbModel.m */,
 			);
@@ -374,7 +369,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5353207F249AFE7C001AB14A /* DashedLineView.m in Sources */,
 				6003F59E195388D20070C39A /* HXBBAppDelegate.m in Sources */,
 				6003F5A7195388D20070C39A /* HXBBViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
