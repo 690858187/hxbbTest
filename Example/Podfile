@@ -3,7 +3,8 @@ use_frameworks!
 platform :ios, '8.0'
 
 target 'hxbbTest_Example' do
-  pod 'hxbbTest', :path => '../'
+#  pod 'hxbbTest', :path => '../'
+  pod 'hxbbTest'
 
   target 'hxbbTest_Tests' do
     inherit! :search_paths

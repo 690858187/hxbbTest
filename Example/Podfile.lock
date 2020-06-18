@@ -1,16 +1,16 @@
 PODS:
-  - hxbbTest (0.1.0)
+  - hxbbTest (0.0.3)
 
 DEPENDENCIES:
-  - hxbbTest (from `../`)
+  - hxbbTest
 
-EXTERNAL SOURCES:
-  hxbbTest:
-    :path: "../"
+SPEC REPOS:
+  trunk:
+    - hxbbTest
 
 SPEC CHECKSUMS:
-  hxbbTest: 60975f8196ec4e4c0f80bed7209528248b34971b
+  hxbbTest: 3989302f6e7f9081eb482b09e10fbbc82e2504bf
 
-PODFILE CHECKSUM: 5bcf441eb4828443216432f893ac8b508fb68aa0
+PODFILE CHECKSUM: 9f17b1cb65b7dfe15272c92a64f2cfb3deb7fff0
 
 COCOAPODS: 1.9.2
