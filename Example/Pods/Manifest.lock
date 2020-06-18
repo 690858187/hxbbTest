@@ -1,16 +1,16 @@
 PODS:
-  - hxbbTest (0.0.3)
+  - hxbbTest (0.2.0)
 
 DEPENDENCIES:
-  - hxbbTest
+  - hxbbTest (~> 0.2.0)
 
 SPEC REPOS:
   trunk:
     - hxbbTest
 
 SPEC CHECKSUMS:
-  hxbbTest: 3989302f6e7f9081eb482b09e10fbbc82e2504bf
+  hxbbTest: 979ca0a64aa3c451ed3ee4c33efea30c3869e9a2
 
-PODFILE CHECKSUM: 9f17b1cb65b7dfe15272c92a64f2cfb3deb7fff0
+PODFILE CHECKSUM: 22ce2e4a639854f05186224d8e9285a58d06f8aa
 
-COCOAPODS: 1.9.2
+COCOAPODS: 1.9.3
